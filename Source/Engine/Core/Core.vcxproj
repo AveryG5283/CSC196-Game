@@ -148,10 +148,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="core.h" />
     <ClInclude Include="FileIO.h" />
     <ClInclude Include="Memory.h" />
     <ClInclude Include="random.h" />
     <ClInclude Include="Time.h" />
+    <ClInclude Include="Vector2.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="FileIO.cpp" />
